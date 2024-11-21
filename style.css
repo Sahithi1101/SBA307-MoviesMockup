@@ -106,19 +106,21 @@
     }
     
     .th, td, tr{
-        /* border:solid black; */
+        border:solid black;
         text-align: center;
         padding: 5px;
         /* color: white; */
     }
     .Feedbackcontainer{
-        display:block;
+        /* display:block; */
         font-size: 0.8cm;
         /* border: solid gold; */
         height: auto;
         width: auto;
     }     
-        
+    /* .Feedbackcontainer{
+        background-image: url(https://smentertainment.co/wp-content/uploads/2024/02/cropped-sm-entertainment-logo-pink.png); */
+    
    
 }
 
@@ -221,7 +223,7 @@
     }
     
     .th, td, tr{
-        /* border:solid black; */
+        border:solid black;
         text-align: center;
         padding: 5px;
         /* color: white; */
@@ -240,6 +242,9 @@
     }
     .Feedbackcontainer{
         display:block;
+    }
+    /* .Feedbackcontainer{
+        background-image: url(https://smentertainment.co/wp-content/uploads/2024/02/cropped-sm-entertainment-logo-pink.png); */
     }
 }
 
@@ -350,7 +355,7 @@
     }
     
     .th, td, tr{
-        /* border:solid black; */
+        border:solid black;
         text-align: center;
         padding: 5px;
         /* color: white; */
@@ -362,6 +367,9 @@
         width: auto;
     
     }
+    .Feedbackcontainer{
+        background-image: url(https://smentertainment.co/wp-content/uploads/2024/02/cropped-sm-entertainment-logo-pink.png);
+    }
    
 }
 
@@ -369,7 +377,7 @@
 .navbar{
     /* border:solid black; */
     height: auto;
-    background-color: rgb(229, 231, 229);
+    background-color: gray;
     align-items: center;
     justify-content: space-around;
        
